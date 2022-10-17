@@ -8,11 +8,12 @@ Nous allons explorer le markdown :
 
 [![Poney](https://lemagdesanimaux.ouest-france.fr/images/dossiers/2021-03/adopter-poney-083907.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-_test italique_
 
-## La blague du jour
+
+La blague du jour
+===
 <details>
-  <summary>Une petite blaque pour la route ? <-- c'est ici</summary>
+  <summary>--> La blague est ici <--</summary>
   
   **Un ingénieur Linux, un ingénieur Mac et un ~~ingénieur~~ Microsoft sont en voiture. Un des pneu crève.**
 
