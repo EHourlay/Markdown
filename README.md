@@ -27,6 +27,8 @@ La blague du jour
 
 ![Troll face](https://media.tenor.com/GryShD35-psAAAAM/troll-face-creepy-smile.gif)
 
+Le code du jour
+---
 ```
 int main {
   while(estEnVie){
