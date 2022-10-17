@@ -16,7 +16,7 @@ Un ingénieur Linux, un ingénieur Mac et un ~~ingénieur~~ Microsoft sont en vo
 
 **__L’ingénieur Mac dit : « Il faut changer le pneu pour pouvoir continuer. »__**
 
-L’ingénieur Linux dit : « Il faut trouver pourquoi le pneu a crevé pour que ça ne reproduise pas. »
+L’ingénieur Linux dit : « Il faut trouver pourquoi le pneu a crevé pour que ça ne se reproduise pas. »
 
 L’~~ingénieur~~ Microsoft dit : « On a qu’à continuer comme ça on verra bien si ça se répare tout seul. »
   
