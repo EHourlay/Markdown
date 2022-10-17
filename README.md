@@ -1,5 +1,6 @@
-# Markdown
-Projet BUT
+# Ce projt vous est présenter par Rayane et Enzo 
+
+Nous allons explorer le markdown :
 
 ## [Ce lien n'est pas un Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
