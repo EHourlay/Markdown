@@ -12,8 +12,8 @@
 
 # Ce projet vous est présenter par *Rayane* et *Enzo* 
 
-~~Nous allons explorer le markdown :~~ 
-Nous amuser
+Nous allons ~~explorer le markdown~~ nous amuser : 
+
 
 ## [Ce lien n'est pas un Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
