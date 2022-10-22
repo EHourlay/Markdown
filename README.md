@@ -55,8 +55,6 @@ int main {
   return 0;
 }
 ```
----
-  
 #### ET VOICI UN TABLEAU NON-EXHAUTIF DES MEMES DE 2022......
 ![Roullement de tambour](https://media.tenor.com/KmUkF_pH4FgAAAAC/roulement-tambour.gif)
   
@@ -68,7 +66,12 @@ int main {
 | Kirby's Mouthful Mod     | Février 2022 | ![alt text][Meme2] | Ce Meme viens du jeu Kirby and the Forgotten Land, sortien en 2022. Juste aprés le trailer de ce jeu où on voit Kirby partiellement avalé un gros objet, plusieurs fanart ont suivi où on voit KirbY avalé tout plein d'objet comme le plot de chantier de vlc studio ou encore Notre Dame | ![alt text][MemeDuMois2] |
 | Berserk Skeletons       | Mars 2022 | ![alt text][Meme3] | Ce Meme viens de l'adaptation anime de 1997 de Berserk, ce clip est souvent combiner avec ["Smoke" de Cowbell Cult](https://www.youtube.com/watch?v=dxQyCpO5EDA&ab_channel=heibailing). On se sert de se clip comme d'une réaction négative à du contenue *Cringe* sur la toile, et parfois on écrit des réponse a des phrases avec les["skeleton roast everybody"](https://www.youtube.com/watch?v=mRS_jt1Fb5Q&ab_channel=STARRZ).| sans lauréat|
 | Will Smith gifle Chris Rock  |Mars 2022  | ![alt text][Meme4] | Ce Meme viens du moment où Will Smith gifle Chris Rock aux Oscars de 2022. Le meme consiste simplement remplacer Will Smith et Chris Rock par des figures de la popCulture.![alt text][gif]|  ![alt text][MemeDuMois4] |
-
+  
+_________________
+  
+- [x] `Se faire Rick Roll`
+- [X] `Se cultiver`
+- [ ] `Procrastiner`
   
 
 
