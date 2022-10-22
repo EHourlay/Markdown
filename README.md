@@ -10,9 +10,10 @@
 [Meme0]: https://i.kym-cdn.com/photos/images/original/002/308/177/b4b.jpg
 
 
-# Ce projet vous est présenter par Rayane et Enzo 
+# Ce projet vous est présenter par *Rayane* et *Enzo* 
 
-Nous allons explorer le markdown :
+~~Nous allons explorer le markdown :~~ 
+Nous amuser
 
 ## [Ce lien n'est pas un Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
