@@ -5,6 +5,7 @@
 [Meme3]: https://static.wikia.nocookie.net/unanything/images/b/bf/Skeleton-berserk.gif/revision/latest?cb=20220422045329
 [MemeDuMois2]: https://i.kym-cdn.com/photos/images/original/002/324/746/367.jpg
 [Meme0]: https://i.kym-cdn.com/photos/images/original/002/308/177/b4b.jpg
+[Roullement de tambour]: https://media.tenor.com/KmUkF_pH4FgAAAAC/roulement-tambour.gif
 
 
 # Ce projet vous est présenter par Rayane et Enzo 
@@ -35,7 +36,7 @@ La blague du jour
   **L’~~ingénieur~~ Microsoft _dit_** :
   > **« On a qu’à continuer comme ça on verra bien si ça se répare tout seul. »**
     
-![alt text][TrollFace]
+![TrollFace]
   
 </details>
 
@@ -53,7 +54,7 @@ int main {
 }
 ```
 #### ET VOICI UN TABLEAU NON-EXHAUTIF DES MEMES DE 2022......
-![Roullement de tambour](https://media.tenor.com/KmUkF_pH4FgAAAAC/roulement-tambour.gif)
+![Roullement de tambour]
   
 
 | Le nom                                              | Date         | Le Meme            |Descripion |  Lauréat |
