@@ -1,4 +1,5 @@
-[Meme]: https://i.pinimg.com/originals/52/28/86/52288638495986c18daaa47541f09a9e.png
+[Meme]: https://media.tenor.com/K9-SqJMNjkEAAAAC/emotional-damage.gif
+[Meme1]: https://media.tenor.com/lKbQy9oa030AAAAC/mgrv-raiden-punching-armstrong.gif
 [Meme0]: https://i.kym-cdn.com/photos/images/original/002/308/177/b4b.jpg
 
 
@@ -50,10 +51,10 @@ int main {
 ![Roullement de tambour](https://media.tenor.com/KmUkF_pH4FgAAAAC/roulement-tambour.gif)
   
 
-| Le nom           | Date         | Le Meme           |Descripion | Lauréat      |
-| ---------------- | :-----------:| -----------------:| ---------:| ------------:|
-| Emotional Damage | Janvier 2022 | ![alt text][Meme] | Ce Meme viens de la vidéo [When "Asian" is a dificulty mod](https://www.youtube.com/watch?v=miD_TWmdGIY&ab_channel=StevenHe)   | sans Lauréat |
-| col 2 is      | centered      |   $12 |
+| Le nom                                              | Date         | Le Meme            |Descripion |  Lauréat |
+| --------------------------------------------------- | :-----------:| ------------------:| ---------:| --------:|
+| Emotional Damage                                    | Janvier 2022 | ![alt text][Meme]  | Ce Meme viens de la vidéo [When "Asian" is a dificulty mod](https://www.youtube.com/watch?v=miD_TWmdGIY&ab_channel=StevenHe) De Steven He. Ce meme est utiliser sur les résaux ; les utilisateurs l'attachent à la fin des clips vidéo où une personne du clip peut avoir subi un préjudice émotionnel. | sans Lauréat |
+| Raiden Punching Amstrong/ standing here i realize   | Janvier 2022 | ![alt text][Meme1] | Ce Meme viens du jeu Metal Gear Rising ,sortie en 2013, où le protagonist Raiden enchaîne de coup rapide le Boss Final du jeu Le Senateur Steven Armstrong avec en fond la musique [Standing here i realize](https://www.youtube.com/watch?v=ZYAPgPH9hsI&ab_channel=Crimson)  . Ce meme est souvent [détourner](https://www.youtube.com/watch?v=C4P5lMoAKtQ&t=13s&ab_channel=CALMAXINC) et change les deux personnages pour montrer à quel point l'un est plus faible que l'autre.| sans Lauréat |
 | zebra stripes | are neat      |    $1 |
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
