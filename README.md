@@ -1,3 +1,7 @@
+[Meme]: https://i.pinimg.com/originals/52/28/86/52288638495986c18daaa47541f09a9e.png
+[Meme0]: https://i.kym-cdn.com/photos/images/original/002/308/177/b4b.jpg
+
+
 # Ce projet vous est présenter par Rayane et Enzo 
 
 Nous allons explorer le markdown :
@@ -45,6 +49,18 @@ int main {
 #### ET VOICI UN TABLEAU NON-EXHAUTIF DES MEMES DE 2022......
 ![Roullement de tambour](https://media.tenor.com/KmUkF_pH4FgAAAAC/roulement-tambour.gif)
   
+
+| Le nom           | Date         | Le Meme           |Descripion | Lauréat      |
+| ---------------- | :-----------:| -----------------:| ---------:| ------------:|
+| Emotional Damage | Janvier 2022 | ![alt text][Meme] | Ce Meme viens de la vidéo [When "Asian" is a dificulty mod](https://www.youtube.com/watch?v=miD_TWmdGIY&ab_channel=StevenHe)   | sans Lauréat |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
   
   
-  
+
+
