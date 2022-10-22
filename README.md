@@ -12,7 +12,7 @@
 
 # Ce projet vous est présenter par *Rayane* et *Enzo* 
 
-Nous allons ~~nous amuser~~ explorer le markdown  : 
+Nous allons ~~explorer le markdown~~ nous amuser : 
 
 
 ## [Ce lien n'est pas un Rickroll](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -56,8 +56,6 @@ int main {
   return 0;
 }
 ```
----
-  
 #### ET VOICI UN TABLEAU NON-EXHAUTIF DES MEMES DE 2022......
 ![Roullement de tambour](https://media.tenor.com/KmUkF_pH4FgAAAAC/roulement-tambour.gif)
   
@@ -76,5 +74,8 @@ _________________
 - [X] `Se cultiver`
 - [ ] `Procrastiner`
   
-
+*******************
+  
+### Merci d'avoir pris le temps de regarder et évaluer notre Git
+  #### Pour nous faire pardonner de vous avoir *Rick Roll* voici une vidéo de self_defense: https://www.youtube.com/shorts/xHEgHjJvR94
 
